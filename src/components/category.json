@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "/col1.png"
+    },
+    {
+        "id": 2,
+        "image": "/col2.png"
+    },
+    {
+        "id": 3,
+        "image": "/col3.png"
+    },
+    {
+        "id": 4,
+        "image": "/col4.png"
+    },
+    {
+        "id": 5,
+        "image": "/col5.png"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    { "title": "Tops", "bgColor": "yellow-200", "icon": "👕", "link": "tops" },
+    { "title": "Sales", "bgColor": "red-200", "icon": "💸", "link": "sales" },
+    { "title": "Cafes", "bgColor": "blue-300", "icon": "☕", "link": "cafe"  },
+    { "title": "Single", "bgColor": "green-200", "icon": "🍽️", "link": "single"  },
+    { "title": "Menu", "bgColor": "purple-200", "icon": "📜", "link": "menu"  },
+    { "title": "Comment", "bgColor": "gray-200", "icon": "💬", "link": "coment"  }
+]
